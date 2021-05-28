@@ -19,7 +19,7 @@ Hi, I'm [Sajeeb Chakraborty!](https://github.com/SajeebChakraborty), a Full Stac
 
 
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Topics:**
 
 - 👨🏽‍💻 I’m currently working on Laravel;
 - 🌱 I’m currently learning React.js; 
