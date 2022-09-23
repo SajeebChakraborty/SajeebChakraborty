@@ -44,3 +44,7 @@ Hi, I'm [Sajeeb Chakraborty!](https://github.com/SajeebChakraborty), a Full Stac
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
+<script src="https://kit.fontawesome.com/dd4c6d49b6.js" crossorigin="anonymous"></script>
+
+
+
