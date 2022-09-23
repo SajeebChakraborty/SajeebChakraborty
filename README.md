@@ -8,8 +8,8 @@
 </a>
 
  <a href="https://www.facebook.com/sajeeb.chakraborty">
-    <i class="fa-brands fa-facebook"></i>
-</a>
+    <i class="fa-brands fa-facebook">Facebook</i>
+ </a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SajeebChakraborty)
