@@ -8,7 +8,7 @@
 </a>
 
  <a href="https://www.facebook.com/sajeeb.chakraborty">
-    <i class="fa-brands fa-facebook">Facebook</i>
+    <i class="fa-brands fa-facebook"></i>
  </a>
 
 
