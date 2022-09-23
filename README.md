@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/sajeeb-chakraborty-1b944a163/">
   <img align="left" alt="Sajeeb's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.linkedin.com/in/sajeeb-chakraborty-1b944a163/">
+  <img align="left" alt="Sajeeb's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
  <a href="https://www.facebook.com/sajeeb.chakraborty">
   <img align="left" alt="Sajeeb's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg">
 </a>
