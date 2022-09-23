@@ -7,14 +7,16 @@
   <img align="left" alt="Sajeeb's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
- <a href="https://www.facebook.com/sajeeb.chakraborty">
-    <i class="fa-brands fa-facebook"></i>
- </a>
-
+ 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SajeebChakraborty)
 
 <br />
+
+<a href="https://www.facebook.com/sajeeb.chakraborty">
+    <i class="fa-brands fa-facebook">My Facebook</i>
+ </a>
+
 
 Hi, I'm [Sajeeb Chakraborty!](https://github.com/SajeebChakraborty), a Full Stack Web Developer 🚀 from Bangladesh.
 
