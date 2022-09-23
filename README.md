@@ -7,7 +7,7 @@
   <img align="left" alt="Sajeeb's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
  <a href="https://www.facebook.com/sajeeb.chakraborty">
-  <img align="left" alt="Sajeeb's Facebook" title="Facebook"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg">
+  <img align="left" alt="Sajeeb's Facebook" title="Facebook"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkdin.svg">
 </a>
 
 
