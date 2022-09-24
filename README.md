@@ -32,6 +32,8 @@ Hi, I'm [Sajeeb Chakraborty!](https://github.com/SajeebChakraborty), a Full Stac
 - 🌱 I’m currently learning React.js; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Sajeeb Chakraborty](https://www.facebook.com/sajeeb.chakraborty);
+       Contact no - 01824072334 (mobile & whatsapp)
+       Email address - sajeebchakraborty.cse2000@gmail.com
 
 
 **Languages, Framework, Library & Tools:**  
