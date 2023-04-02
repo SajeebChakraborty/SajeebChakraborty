@@ -51,7 +51,7 @@ Hi, I'm [Sajeeb Chakraborty!](https://github.com/SajeebChakraborty), a Full Stac
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-[![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SajeebChakraborty&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SajeebChakraborty/github-readme-stats#gh-dark-mode-only)
+[![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SajeebChakraborty&show_icons=true&theme=dark#gh-dark-mode-only)]
 
 
 
