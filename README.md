@@ -54,7 +54,7 @@ Hi, I'm [Sajeeb Chakraborty!](https://github.com/SajeebChakraborty), a Full Stac
 
 📈 My GitHub Stats
 
-[![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SajeebChakraborty&show_icons=true&theme=dark#gh-dark-mode-only)]
+![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SajeebChakraborty&show_icons=true&theme=dark#gh-dark-mode-only)
 
 
 
