@@ -24,6 +24,7 @@
 
 Hi, I'm [Sajeeb Chakraborty!](https://github.com/SajeebChakraborty), a Full Stack Web Developer 🚀 from Bangladesh.
 
+![expert-at-laravel](https://user-images.githubusercontent.com/48250220/231814998-c6da9b81-85a4-48a2-9557-57493594f058.svg)
 
   
 **Talking about Personal Topics:**
