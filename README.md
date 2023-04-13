@@ -16,15 +16,14 @@
 <a href="https://www.facebook.com/sajeeb.chakraborty">
     <i class="fa-brands fa-facebook">My Facebook</i>
  </a>
-
-<br />
-
-
-<br />
+ 
+ <br />
+ 
+ <br />
+ 
+ ![expert-at-laravel](https://user-images.githubusercontent.com/48250220/231816227-f633193a-c2c9-4e56-a829-e62800203f6d.svg)
 
 Hi, I'm [Sajeeb Chakraborty!](https://github.com/SajeebChakraborty), a Full Stack Web Developer 🚀 from Bangladesh.
-
-![expert-at-laravel](https://user-images.githubusercontent.com/48250220/231814998-c6da9b81-85a4-48a2-9557-57493594f058.svg)
 
   
 **Talking about Personal Topics:**
