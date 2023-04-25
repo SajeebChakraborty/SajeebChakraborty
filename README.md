@@ -43,6 +43,7 @@ Hi, I'm [Sajeeb Chakraborty!](https://github.com/SajeebChakraborty), a Full Stac
 - 💬 Contact no - 01824072334 (mobile & whatsapp)
 - 🌱 Email address - sajeebchakraborty.cse2000@gmail.com
 - 📫 Portfolio Link - https://sajeebchakraborty.github.io
+- 📫 My CV - https://drive.google.com/file/d/1l2nBoxkNpzXWplbpWCOTeiKaqiplsh2s/view?usp=share_link
 
 
 **Languages, Framework, Library & Tools:**  
