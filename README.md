@@ -29,7 +29,7 @@ Hi, I'm [Sajeeb Chakraborty!](https://github.com/SajeebChakraborty), a Full Stac
 **Talking about Personal Topics:**
 
 - 👨🏽‍💻 I’m currently working on Laravel, React js and Vue js;
-- 🌱 I’m currently learning Node js and Express js; 
+- 🌱 I’m currently learning Node js, Express js and AI; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Sajeeb Chakraborty](https://www.facebook.com/sajeeb.chakraborty);
 - 💬 Contact no - 01824072334 (mobile & whatsapp)
